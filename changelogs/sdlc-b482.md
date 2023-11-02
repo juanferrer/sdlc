@@ -1,5 +1,11 @@
 # Changelog for Shadow of the Demon Lord Compendia - Paths of Shadow
 
+## 1.2.0
+
+- Restore attribute increases in levels
+- Use `.all` for active effects where relevant
+- Add defense boons
+
 ## 1.1.0
 
 - Fix talent references
