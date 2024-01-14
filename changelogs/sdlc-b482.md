@@ -6,6 +6,10 @@
 - Use `.all` for active effects where relevant
 - Add defense boons
 
+## 1.1.1
+
+- Fix repeated levels on Veteran
+
 ## 1.1.0
 
 - Fix talent references
