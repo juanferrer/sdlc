@@ -1,5 +1,13 @@
 # Changelog for Shadow of the Demon Lord Compendia - Paths of Shadow
 
+## 1.3.3
+
+- Correct attribute bonuses on some paths
+
+## 1.3.2
+
+- Fix a bunch of spelling errors
+
 ## 1.3.1
 
 - Correct broken item references in paths and ancestries
