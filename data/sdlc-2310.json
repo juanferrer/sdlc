@@ -1,11 +1,10 @@
 {
     "maps": [
         {
-            "looted-vaults": {
-                "targetPath": "modules/sdlc-2310/artwork/maps/looted-vaults.webp",
-                "sourcePath": "maps/sdlc-2310/looted-vaults.webp",
-                "version": "1.0.0"
-            }
+            "name": "looted-vaults",
+            "targetPath": "modules/sdlc-2310/artwork/maps/looted-vaults.webp",
+            "sourcePath": "maps/sdlc-2310/looted-vaults.webp",
+            "version": "1.0.0"
         }
     ]
 }
