@@ -1,5 +1,9 @@
 # Changelog for Shadow of the Demon Lord Compendia - Paths of Shadow
 
+## 1.4.0
+
+- Make use of specific extra damage active effects
+
 ## 1.3.3
 
 - Correct attribute bonuses on some paths
