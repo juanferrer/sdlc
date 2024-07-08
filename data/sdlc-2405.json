@@ -1,0 +1,10 @@
+{
+    "maps": [
+        {
+            "name": "gallery-of-groans",
+            "targetPath": "modules/sdlc-2405/storage/maps/gallery-of-groans.webp",
+            "sourcePath": "maps/sdlc-2405/gallery-of-groans.webp",
+            "version": "1.0.0"
+        }
+    ]
+}
