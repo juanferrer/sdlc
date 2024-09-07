@@ -21,7 +21,5 @@ This repo is for image hosting, bug reports and changelogs.
 - [Dungeon of the Damned: Gallery of Groans](https://www.drivethrurpg.com/product/487219/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Gallery-of-Groans-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-2405)]</sup>
 
 ### Upcoming
-- Exquisite Agony [SDL 1015]
-- A Glorious Death [SDL 1021]
-- Tombs of Desolation [SDL 1013]
-- Dungeon of the Damned: Halls of Death (whenever it comes out)
+
+Check out the [ROADMAP](https://github.com/juanferrer/sdlc/blob/main/ROADMAP.md)!
