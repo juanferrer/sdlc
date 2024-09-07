@@ -4,7 +4,9 @@ This repo is for image hosting, bug reports and changelogs.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6KSAKW)
 
-Supplements:
+## Module links
+
+### Supplements
 
 - [Core](https://www.drivethrurpg.com/product/434280/Shadow-of-the-Demon-Lord-Compendia-Core-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1000)]</sup>
 - [Demon Lord's Companion](https://www.drivethrurpg.com/product/437992/Shadow-of-the-Demon-Lord-Compendia-Demon-Lords-Companion-for-Foundry-VTT?src=Foundry?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1001)]</sup>
@@ -14,6 +16,12 @@ Supplements:
 - [Occult Philosophy](https://www.drivethrurpg.com/product/452379/Shadow-of-the-Demon-Lord-Compendia-Occult-Philosophy-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1912)]</sup>
 - [Paths of Shadow](https://www.drivethrurpg.com/product/453756/Shadow-of-the-Demon-Lord-Compendia-Paths-of-Shadow-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-b482)]</sup>
 
-Adventures:
+### Adventures
 - [Dungeon of the Damned: Looted Vaults](https://www.drivethrurpg.com/product/483516/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Looted-Vaults-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-2310)]</sup>
-- [Dungeon of the Damned: Gallery of Groans](https://www.drivethrurpg.com/product/487219/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Gallery-of-Groans-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-2410)]</sup>
+- [Dungeon of the Damned: Gallery of Groans](https://www.drivethrurpg.com/product/487219/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Gallery-of-Groans-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-2405)]</sup>
+
+### Upcoming
+- Exquisite Agony [SDL 1015]
+- A Glorious Death [SDL 1021]
+- Tombs of Desolation [SDL 1013]
+- Dungeon of the Damned: Halls of Death (whenever it comes out)
