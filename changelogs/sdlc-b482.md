@@ -1,5 +1,9 @@
 # Changelog for Shadow of the Demon Lord Compendia - Paths of Shadow
 
+## 1.6.0
+
+- Fix attack extras
+
 ## 1.5.0
 
 - Improve journal references
