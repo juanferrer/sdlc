@@ -16,7 +16,7 @@ This repo is for image hosting, bug reports and changelogs.
 - [Occult Philosophy](https://www.drivethrurpg.com/product/452379/Shadow-of-the-Demon-Lord-Compendia-Occult-Philosophy-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1912)]</sup>
 - [Paths of Shadow](https://www.drivethrurpg.com/product/453756/Shadow-of-the-Demon-Lord-Compendia-Paths-of-Shadow-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-b482)]</sup>
 - [Exquisite Agony](https://www.drivethrurpg.com/product/494509/Shadow-of-the-Demon-Lord-Compendia-Exquisite-Agony-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1015)]</sup>
-- [A Glorious Death](https://www.drivethrurpg.com/product/000000/Shadow-of-the-Demon-Lord-Compendia-A-Glorious-Death-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1021)]</sup>
+- [A Glorious Death](https://www.drivethrurpg.com/product/500707/Shadow-of-the-Demon-Lord-Compendia-A-Glorious-Death-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1021)]</sup>
 
 ### Adventures
 - [Dungeon of the Damned: Looted Vaults](https://www.drivethrurpg.com/product/483516/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Looted-Vaults-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-2310)]</sup>
