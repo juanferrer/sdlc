@@ -9,12 +9,13 @@ This repo is for image hosting, bug reports and changelogs.
 ### Supplements
 
 - [Core](https://www.drivethrurpg.com/product/434280/Shadow-of-the-Demon-Lord-Compendia-Core-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1000)]</sup>
-- [Demon Lord's Companion](https://www.drivethrurpg.com/product/437992/Shadow-of-the-Demon-Lord-Compendia-Demon-Lords-Companion-for-Foundry-VTT?src=Foundry?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1001)]</sup>
-- [Terrible Beauty](https://www.drivethrurpg.com/en/product/479635/Shadow-of-the-Demon-Lord-Compendia-Terrible-Beauty-for-Foundry-VTT?src=Foundry?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1014)]</sup>
+- [Demon Lord's Companion](https://www.drivethrurpg.com/product/437992/Shadow-of-the-Demon-Lord-Compendia-Demon-Lords-Companion-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1001)]</sup>
+- [Tombs of the Desolation](https://www.drivethrurpg.com/en/product/508650/Shadow-of-the-Demon-Lord-Compendia-Tombs-of-the-Desolation-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1013)]</sup>
+- [Terrible Beauty](https://www.drivethrurpg.com/en/product/479635/Shadow-of-the-Demon-Lord-Compendia-Terrible-Beauty-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1014)]</sup>
 - [Exquisite Agony](https://www.drivethrurpg.com/product/494509/Shadow-of-the-Demon-Lord-Compendia-Exquisite-Agony-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1015)]</sup>
 - [A Glorious Death](https://www.drivethrurpg.com/product/500707/Shadow-of-the-Demon-Lord-Compendia-A-Glorious-Death-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1021)]</sup>
-- [Hunger in the Void](https://www.drivethrurpg.com/product/467312/Shadow-of-the-Demon-Lord-Compendia-Hunger-in-the-Void-for-Foundry-VTT?src=Foundry?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1024)]</sup>
-- [Demon Lord's Companion 2](https://www.drivethrurpg.com/product/472618/Shadow-of-the-Demon-Lord-Compendia-Demon-Lord-s-Companion-2-for-Foundry-VTT?src=Foundry?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1732)]</sup>
+- [Hunger in the Void](https://www.drivethrurpg.com/product/467312/Shadow-of-the-Demon-Lord-Compendia-Hunger-in-the-Void-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1024)]</sup>
+- [Demon Lord's Companion 2](https://www.drivethrurpg.com/product/472618/Shadow-of-the-Demon-Lord-Compendia-Demon-Lord-s-Companion-2-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1732)]</sup>
 - [Occult Philosophy](https://www.drivethrurpg.com/product/452379/Shadow-of-the-Demon-Lord-Compendia-Occult-Philosophy-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-1912)]</sup>
 - [Paths of Shadow](https://www.drivethrurpg.com/product/453756/Shadow-of-the-Demon-Lord-Compendia-Paths-of-Shadow-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-b482)]</sup>
 

@@ -1,0 +1,40 @@
+{
+    "maps": [
+        {
+            "name": "the-dread-of-the-desolation",
+            "targetPath": "modules/sdlc-1013/storage/maps/level-1.webp",
+            "sourcePath": "maps/sdlc-1013/level-1.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "the-dread-of-the-desolation",
+            "targetPath": "modules/sdlc-1013/storage/maps/level-2-l.webp",
+            "sourcePath": "maps/sdlc-1013/level-2-l.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "the-dread-of-the-desolation",
+            "targetPath": "modules/sdlc-1013/storage/maps/level-2-r.webp",
+            "sourcePath": "maps/sdlc-1013/level-2-r.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "the-dread-of-the-desolation",
+            "targetPath": "modules/sdlc-1013/storage/maps/level-3.webp",
+            "sourcePath": "maps/sdlc-1013/level-3.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "the-dread-of-the-desolation",
+            "targetPath": "modules/sdlc-1013/storage/maps/level-4.webp",
+            "sourcePath": "maps/sdlc-1013/level-4.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "the-dread-of-the-desolation",
+            "targetPath": "modules/sdlc-1013/storage/maps/level-5.webp",
+            "sourcePath": "maps/sdlc-1013/level-5.webp",
+            "version": "1.0.0"
+        }
+    ]
+}
