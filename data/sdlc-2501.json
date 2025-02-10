@@ -1,0 +1,124 @@
+{
+    "maps": [
+        {
+            "name": "halls-of-death-01",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-01.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-01.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-02",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-02.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-02.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-03",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-03.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-03.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-04",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-04.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-04.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-05",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-05.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-05.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-06",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-06.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-06.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-07",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-07.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-07.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-08",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-08.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-08.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-09",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-09.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-09.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-10",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-10.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-10.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-11",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-11.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-11.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-12",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-12.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-12.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-13",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-13.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-13.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-14",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-14.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-14.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-15",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-15.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-15.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-16",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-16.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-16.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-17",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-17.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-17.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-18",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-18.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-18.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-19",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-19.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-19.webp",
+            "version": "1.0.0"
+        },
+        {
+            "name": "halls-of-death-20",
+            "targetPath": "modules/sdlc-2501/storage/maps/halls-of-death-20.webp",
+            "sourcePath": "maps/sdlc-2501/halls-of-death-20.webp",
+            "version": "1.0.0"
+        }
+    ]
+}

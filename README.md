@@ -22,6 +22,7 @@ This repo is for image hosting, bug reports and changelogs.
 ### Adventures
 - [Dungeon of the Damned: Looted Vaults](https://www.drivethrurpg.com/product/483516/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Looted-Vaults-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-2310)]</sup>
 - [Dungeon of the Damned: Gallery of Groans](https://www.drivethrurpg.com/product/487219/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Gallery-of-Groans-for-Foundry-VTT?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-2405)]</sup>
+- [Dungeon of the Damned: Halls of Death](?src=GitHub) <sup>[[Foundry](https://foundryvtt.com/packages/sdlc-2501)]</sup>
 
 ### Upcoming
 
