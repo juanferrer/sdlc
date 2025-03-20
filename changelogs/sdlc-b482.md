@@ -1,5 +1,9 @@
 # Changelog for Shadow of the Demon Lord Compendia - Paths of Shadow
 
+## 1.7.1
+
+- Fix path attributes
+
 ## 1.7.0
 
 - Improve wording of magic in paths
