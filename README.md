@@ -24,7 +24,7 @@ This repo is for image hosting, bug reports and changelogs.
 - [Dungeon of the Damned: Looted Vaults](https://foundryvtt.com/packages/sdlc-2310) <sup>[[DTRPG](https://www.drivethrurpg.com/product/483516/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Looted-Vaults-for-Foundry-VTT?src=GitHub)]</sup> <sup>[[Foundry](https://foundryvtt.store/products/sdlc-2310)]</sup>
 - [Dungeon of the Damned: Gallery of Groans](https://foundryvtt.com/packages/sdlc-2405) <sup>[[DTRPG](https://www.drivethrurpg.com/product/487219/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Gallery-of-Groans-for-Foundry-VTT?src=GitHub)]</sup> <sup>[[Foundry](https://foundryvtt.store/products/sdlc-2405)]</sup>
 - [Dungeon of the Damned: Halls of Death](https://foundryvtt.com/packages/sdlc-2501) <sup>[[DTRPG](https://www.drivethrurpg.com/product/511894/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Halls-of-Death-for-Foundry-VTT?src=GitHub)]</sup> <sup>[[Foundry](https://foundryvtt.store/products/sdlc-2501)]</sup>
-- [Dungeon of the Damned: The Crypt of the Dead Dreamer](https://foundryvtt.com/packages/sdlc-2501) <sup>[[DTRPG](https://www.drivethrurpg.com/product/538603/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Crypt-of-the-Dead-Dreamer-for-Foundry-VTT?src=GitHub)]</sup> <sup>[[Foundry](https://foundryvtt.store/products/sdlc-2505)]</sup>
+- [Dungeon of the Damned: Crypt of the Dead Dreamer](https://foundryvtt.com/packages/sdlc-2501) <sup>[[DTRPG](https://www.drivethrurpg.com/product/538603/Shadow-of-the-Demon-Lord-Compendia-Dungeon-of-the-Damned-Crypt-of-the-Dead-Dreamer-for-Foundry-VTT?src=GitHub)]</sup> <sup>[[Foundry](https://foundryvtt.store/products/sdlc-2505)]</sup>
 
 ### Upcoming
 

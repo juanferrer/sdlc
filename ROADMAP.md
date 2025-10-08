@@ -3,5 +3,6 @@ If you're interested in a particular module, let me know and I might be able to 
 
 - Dungeon of the Damned: Hateful Abyss
 - Blackstar: Death & Decay - Creature Codex
+- Dungeon of the Damned: Prison of Pain
 
 Check the released modules in the [README](https://github.com/juanferrer/sdlc/blob/main/README.md).
