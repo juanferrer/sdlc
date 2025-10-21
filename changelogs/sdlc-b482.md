@@ -1,5 +1,10 @@
 # Changelog for Shadow of the Demon Lord Compendia - Paths of Shadow
 
+## 2.1.0
+
+- Add missing images
+- Correct item references in levels
+
 ## 2.0.0
 
 - Update to v13
