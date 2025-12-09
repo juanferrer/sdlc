@@ -1,16 +1,17 @@
 # Changelog for Shadow of the Demon Lord Compendia - Paths of Shadow
 
-## 2.1.1
+## 2.2.1
 
 - Add compendium redirects
 
+## 2.2.0
+
+- Rename compendia and correct sources
+
 ## 2.1.0
 
-- Rename compendia and add sources
-
-## 2.0.1
-
-- Fix profession references in paths
+- Add missing images
+- Correct item references in levels
 
 ## 2.0.0
 
