@@ -1,5 +1,9 @@
 # Changelog for Shadow of the Demon Lord Compendia - Paths of Shadow
 
+## 2.2.1
+
+- Add compendium redirects
+
 ## 2.2.0
 
 - Rename compendia and correct sources
