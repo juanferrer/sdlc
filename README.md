@@ -27,7 +27,9 @@ This repo is for image hosting, bug reports and changelogs.
 - [Dungeon of the Damned: Crypt of the Dead Dreamer](https://foundryvtt.com/packages/sdlc-2505) <sup>[[DTRPG](https://www.drivethrurpg.com/product/538603?src=GitHub)]</sup> <sup>[[Foundry](https://foundryvtt.store/products/sdlc-2505)]</sup>
 - [Dungeon of the Damned: Hateful Abyss](https://foundryvtt.com/packages/sdlc-2508) <sup>[[DTRPG](https://www.drivethrurpg.com/product/540184?
 src=GitHub)]</sup> <sup>[[Foundry](https://foundryvtt.store/products/sdlc-2508)]</sup>
-- [Dungeon of the Damned: Prison of Pain](https://foundryvtt.com/packages/sdlc-2511) <sup>[[DTRPG](https://www.drivethrurpg.com/product/556879?src=GitHub)]</sup> <sup>[[Foundry](https://foundryvtt.store/products/sdlc-2511)]</sup>
+- [Dungeon of the Damned: Prison of Pain](https://foundryvtt.com/packages/sdlc-2511) <sup>[[DTRPG](https://www.drivethrurpg.com/product/556879?src=GitHub)]</sup>
+<sup>[[Foundry](https://foundryvtt.store/products/sdlc-2511)]</sup>
+- [Dungeon of the Damned: Chamber of Black ice](https://foundryvtt.com/packages/sdlc-2602) <sup>[[DTRPG](https://www.drivethrurpg.com/product/561267?src=GitHub)]</sup> <sup>[[Foundry](https://foundryvtt.store/products/sdlc-2602)]</sup>
 
 ### Upcoming
 
